@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Random Nose
 
-<!--
-**RandomNose/RandomNose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at Universidade Catolica de Brasília
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `Node.JS`
+- 🎉 Frontend: `React.JS`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version Code Control: `Git & Github`
+- 🔨 Tools: `VsCode`, `Markdown`
+- 🌐 I'm mostly active within the `B7Web Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📬 Email: randomknose@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/randomknose/
